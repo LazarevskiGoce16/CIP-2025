@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/CIP-2025.iml" filepath="$PROJECT_DIR$/.idea/CIP-2025.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lecture01/Exercise01/Exercise01.iml" filepath="$PROJECT_DIR$/Lecture01/Exercise01/Exercise01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lecture01/Exercise02/Exercise02.iml" filepath="$PROJECT_DIR$/Lecture01/Exercise02/Exercise02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lecture01/Exercise03/Exercise03.iml" filepath="$PROJECT_DIR$/Lecture01/Exercise03/Exercise03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lecture01/Exercise04/Exercise04.iml" filepath="$PROJECT_DIR$/Lecture01/Exercise04/Exercise04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lecture01/Exercise05/Exercise05.iml" filepath="$PROJECT_DIR$/Lecture01/Exercise05/Exercise05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lecture01/Exercise06/Exercise06.iml" filepath="$PROJECT_DIR$/Lecture01/Exercise06/Exercise06.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lecture01/Exercise07/Exercise07.iml" filepath="$PROJECT_DIR$/Lecture01/Exercise07/Exercise07.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lecture01/Lecture01.iml" filepath="$PROJECT_DIR$/Lecture01/Lecture01.iml" />
+    </modules>
+  </component>
+</project>
