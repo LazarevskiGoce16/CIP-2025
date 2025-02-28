@@ -3,6 +3,11 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/CIP-2025.iml" filepath="$PROJECT_DIR$/.idea/CIP-2025.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lecture03/Exercise-1/Exercise-1.iml" filepath="$PROJECT_DIR$/Lecture03/Exercise-1/Exercise-1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lecture03/Exercise-2/Exercise-2.iml" filepath="$PROJECT_DIR$/Lecture03/Exercise-2/Exercise-2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lecture03/Exercise-3/Exercise-3.iml" filepath="$PROJECT_DIR$/Lecture03/Exercise-3/Exercise-3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lecture03/Exercise-4/Exercise-4.iml" filepath="$PROJECT_DIR$/Lecture03/Exercise-4/Exercise-4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lecture03/Exercise-5/Exercise-5.iml" filepath="$PROJECT_DIR$/Lecture03/Exercise-5/Exercise-5.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lecture01/Exercise01/Exercise01.iml" filepath="$PROJECT_DIR$/Lecture01/Exercise01/Exercise01.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lecture01/Exercise02/Exercise02.iml" filepath="$PROJECT_DIR$/Lecture01/Exercise02/Exercise02.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lecture01/Exercise03/Exercise03.iml" filepath="$PROJECT_DIR$/Lecture01/Exercise03/Exercise03.iml" />
@@ -18,6 +23,7 @@
       <module fileurl="file://$PROJECT_DIR$/Lecture02/Exercise6/Exercise6.iml" filepath="$PROJECT_DIR$/Lecture02/Exercise6/Exercise6.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lecture01/Lecture01.iml" filepath="$PROJECT_DIR$/Lecture01/Lecture01.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lecture02/Lecture02.iml" filepath="$PROJECT_DIR$/Lecture02/Lecture02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lecture03/Lecture03.iml" filepath="$PROJECT_DIR$/Lecture03/Lecture03.iml" />
     </modules>
   </component>
 </project>
