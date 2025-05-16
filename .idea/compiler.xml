@@ -10,6 +10,7 @@
         <module name="Exercise-02" />
         <module name="Exercise-01" />
         <module name="Lecture08" />
+        <module name="FinalPrep" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -20,6 +21,7 @@
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="Exercise-01" options="-parameters" />
       <module name="Exercise-02" options="-parameters" />
+      <module name="FinalPrep" options="-parameters" />
       <module name="Lecture08" options="-parameters" />
       <module name="untitled" options="-parameters" />
     </option>
